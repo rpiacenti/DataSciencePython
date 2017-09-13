@@ -1,19 +1,3 @@
---------------------
-BDMEP - INMET
---------------------
-Estação           : BRASILIA - DF (OMM: 83377)
-Latitude  (graus) : -15.78
-Longitude (graus) : -47.92
-Altitude  (metros): 1159.54
-Estação Operante
-Inicio de operação: 12/09/1961
-Periodo solicitado dos dados: 01/01/2010 a 31/12/2016
-Os dados listados abaixo são os que encontram-se digitados no BDMEP
-Hora em UTC
---------------------
-Obs.: Os dados aparecem separados por , (ponto e vírgula) no formato txt.
-      Para o formato planilha XLS, siga as instruções
---------------------
 Estacao,Data,Hora,DirecaoVento,VelocidadeVentoMedia,VelocidadeVentoMaximaMedia,EvaporacaoPiche,EvapoBHPotencial,EvapoBHReal,InsolacaoTotal,NebulosidadeMedia,NumDiasPrecipitacao,PrecipitacaoTotal,PressaoNivelMarMedia,PressaoMedia,TempMaximaMedia,TempCompensadaMedia,TempMinimaMedia,UmidadeRelativaMedia,VisibilidadeMedia,
 83377,31/01/2010,0000,5,2.010753,6,132.6,102.86748,102.86748,195.6,7.387097,17,121,NaN,886.141935,27.574194,22.423226,18.416129,71.572581,NaN,
 83377,28/02/2010,0000,0,2.083333,8,142.8,95.317083,81.09893,203.3,6.75,11,37.2,NaN,886.14881,28.417857,23.121429,18.95,66.714286,NaN,
